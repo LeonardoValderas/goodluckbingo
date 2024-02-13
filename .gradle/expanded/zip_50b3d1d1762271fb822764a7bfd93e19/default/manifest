@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.22
+depends=org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_signature_versions=1,2
+jsOutputName=kobweb-frontend-browser-ext
+metadata_version=1.4.1
+serializedIrFileFingerprints=349p5iy3xgvuy.3imzpvabnvzvg 3q7yfyeadirhg.34fp82vbufily amqmkvvs9baw.20fnp3e2d7av3 s7fmxjbjv9oa.3niwagqyklxo6 2sr05b1e0ssl7.1cqqxpfd7iflg 20qey8hd1ctip.2g9wmuvk6ia3t 1703aftvbut43.31pmt6n22uc15 16rgcyo0m0vz5.2pci29h7qexfr 26rt50ya5ol3q.f6w0oskkiupe zfd5boabi93k.rbff5x4rhct9 1fi0qx4fda0rd.1v1w8ap3edo89 3nlattjctlrbm.k7qzgbclx7tp ah4v2dbv0aho.2xc85bzc1e72l
+serializedKlibFingerprint=1xmvm0aj7qxri.1um64zsnkjo3w
+unique_name=com.varabyte.kobweb\:browser-ext

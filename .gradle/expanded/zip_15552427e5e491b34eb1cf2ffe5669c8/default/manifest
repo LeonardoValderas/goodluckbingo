@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.22
+depends=org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=kobweb-frontend-kobweb-worker-interface
+metadata_version=1.4.1
+serializedIrFileFingerprints=36nfofma5gu6p.z6qhr0mxc93y
+serializedKlibFingerprint=3rkdyjz2txv5g.10bubeos25stl
+unique_name=com.varabyte.kobweb\:kobweb-worker-interface

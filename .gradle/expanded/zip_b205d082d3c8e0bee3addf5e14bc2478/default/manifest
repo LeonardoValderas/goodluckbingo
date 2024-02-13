@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.22
+depends=com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:browser-ext org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_signature_versions=1,2
+jsOutputName=kobweb-frontend-silk-widgets
+metadata_version=1.4.1
+serializedIrFileFingerprints=yjsidu442elu.19mk73a4ra8e2 aziyokzq9l5t.5m9si6qgha8u 3v5k179ypb9ls.u17hjq8gs2xg 2mtg8rm75rz84.36dpbu2okkboz 20an8bt8vujwr.pf8vkrarjl3o 32tjh7xwb2y3m.qv30mzlgas77 3v614a3flkik2.lwkx32zlf8ls 1t6i9cp4sbfi4.zmf14c7fbdp1 2ir9sxlrpxtfe.1cg6rtprffga1 380cfaxsouanx.mni8m9e6sd9v 1m22nimplzkei.3tys7p14lvz3h 1slbhg25eupd4.xhhsykrv8s16 1bjpw187t5plz.16fbjhsc99ii9 2nuq1eyb42jmb.3fiacbib6uj4s 3fjs392wxgukm.vycoafcepdo4 2q2ndfk07jfet.3dz7w7o8aiinh 3jw5ircj3c8dk.10c46k1xc8ame 23sp14saxxnpr.l2hj80yoxm63 2x7rmz5ealj3w.1a1umli5ukyja 22y6x9k3pgd7r.18u1elmutrcpv tamd64kkioy3.3cqozmjw21hev 7j89cwuxh85k.1fm4abt5cx844 25a6ojfoqm3w3.3momui8vz3pdw 3rurn12ci6hge.3lwbdnzvrg6i3 2xs4y9wltjjbl.30b8bakc6gwqq
+serializedKlibFingerprint=2e8lwbajd0ph2.2ssllxju2bj6y
+unique_name=com.varabyte.kobweb\:silk-widgets

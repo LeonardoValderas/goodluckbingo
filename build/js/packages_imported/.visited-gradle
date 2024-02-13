@@ -1,0 +1,87 @@
+{
+  "version": "9",
+  "items": {
+    "cb7d13c12a97693448b82c9574c2fd3e": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.9.22/95e0c81ba7ee3d36c7d7312a63f1b0bae454b3fe/kotlin-stdlib-js-1.9.22.klib"
+    },
+    "de72ce71868daef07f04203bf10b6864": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-js/1.5.12/542581d78cd419a1752f957c10a06522cc12dab9/runtime-js-1.5.12.klib"
+    },
+    "67c827c197d695ce9ac33c6fbf6b2966": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.7.3/6b2e7c874877434e53fbf736eaa05d6dda02d642/kotlinx-coroutines-core-jsir-1.7.3.klib"
+    },
+    "f53756ee88cef419b2e73033923a2e9c": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.21.0/c9f79cd6efe7bfd96e7df26758d7bee371235627/atomicfu-jsir-0.21.0.klib"
+    },
+    "c31d4b86f871ee648d47c66548fbfa57": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.0/cd65c21cfd1eec4d44ef09f9f52b6d9f8a720636/kotlin-stdlib-common-1.9.0.jar"
+    },
+    "15b3b054ab4a6eda4a8c899277426209": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlinx-atomicfu-runtime/1.8.20/8ccfa77dc6cd3ff5ffaad24ea15747327d4492ea/kotlinx-atomicfu-runtime-1.8.20.klib"
+    },
+    "b50857453dcb30a49d765d6aca822dfe": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-dom-api-compat/1.9.22/3c0ac04445c1aeec4366d69e1791cd6ad31ddc07/kotlin-dom-api-compat-1.9.22.klib"
+    },
+    "97ccb8a17f206a99b0e822a1c5c97058": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.html/html-core-js/1.5.12/ea514fb28b920413dacd3744333c6bf00db101b6/html-core-js-1.5.12.klib",
+      "target": "html-core-js/1.5.12"
+    },
+    "627a87325e006024cc4b82d96a1fc30e": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.html/internal-html-core-runtime-js/1.5.12/7dd7872fa194cd87edc708a4e0523cfb687ab1e6/internal-html-core-runtime-js-1.5.12.klib"
+    },
+    "5d58e0cd93943b892288f1f484115edd": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/kobweb-core/0.16.2/dd2819b51624dc98f25d896dd0f5a446c0e79884/kobweb-core-js-0.16.2.klib"
+    },
+    "782ce9c075d3309d49f91da9a1eb3ac9": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/compose-html-ext/0.16.2/797ecd74042b52c9c23da1279285a5233b48c448/compose-html-ext-js-0.16.2.klib"
+    },
+    "50b3d1d1762271fb822764a7bfd93e19": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/browser-ext/0.16.2/fa710690b94956f2b964fe6dc3fc3d2ef3d202fa/browser-ext-js-0.16.2.klib"
+    },
+    "15552427e5e491b34eb1cf2ffe5669c8": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/kobweb-worker-interface/0.16.2/dd9214dd14862cfa81f811fa77661d0445436055/kobweb-worker-interface-js-0.16.2.klib"
+    },
+    "0ffdceb4847380e2dcfbd909170a9a1d": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-js/1.6.0/8da0ad64ba616b5274fc5cdc07656912e1eea71d/kotlinx-serialization-json-js-1.6.0.klib"
+    },
+    "d356df8ed21c63fbacf8d7ef87b6eaa0": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.6.0/bb589ecd997c9b459f15b06ff4639bc6cabf522d/kotlinx-serialization-core-js-1.6.0.klib"
+    },
+    "900efac5f80a943c52f070f7dd8b2e6b": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/kobweb-client-server-models-js/0.16.2/c7ef4bd0f640cdfa13a6d2e5f546c121b8ee932b/client-server-models-js-0.16.2.klib"
+    },
+    "c4d242b9b6573a818d8762f103058be7": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/kobweb-silk/0.16.2/b194e415573058ae7ef48806170409195a7eec0c/kobweb-silk-js-0.16.2.klib"
+    },
+    "bff7759cf1e916513719bd36de254c3b": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/silk-widgets-kobweb/0.16.2/6d457630459fcd02fc7499a147fb9885fecfa317/silk-widgets-kobweb-js-0.16.2.klib"
+    },
+    "b205d082d3c8e0bee3addf5e14bc2478": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/silk-widgets/0.16.2/568b903df847c76426096886919ed710f74f64d4/silk-widgets-js-0.16.2.klib"
+    },
+    "dc613261a069aed1a3e3f0d521c883f9": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/silk-foundation/0.16.2/adcc80d192aae5b553ca802f327fdce4555cf6cf/silk-foundation-js-0.16.2.klib"
+    },
+    "23cd8bf044463a389ce40e8ecf0ef746": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobweb/kobweb-compose/0.16.2/17097d87d51f500aae792064f73064ddff9539b3/kobweb-compose-js-0.16.2.klib"
+    },
+    "d0c7d97869c33cdf3500f90e4c7d37be": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/com.varabyte.kobwebx/silk-icons-fa/0.16.2/ceb0180fee992b96670b473ee06c9d675fc8df74/silk-icons-fa-js-0.16.2.klib"
+    },
+    "a66860f155cb10a237acb5f7d0f6d0e3": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.9.22/e9b1fc55af69eb09d63b271d17c217d9483241cc/kotlin-test-js-runner-1.9.22.jar",
+      "target": "kotlin-test-js-runner/0.0.1"
+    },
+    "c805186b4b6670141cc91cf1a09938a0": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime-js/0.3.3/10137611006991a712bf1a350bd677da1007be0a/kotlinx-datetime-jsir-0.3.3.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime-js-ir/0.3.3"
+    },
+    "aabd2f46fead63ab3b52bd090077097e": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.6.2/27bceec3b89d0eec8f951f8b25f16fffa0df214e/kotlinx-serialization-core-js-1.6.2.klib"
+    },
+    "6935cda2029a2e293a4e15f7fc6095bf": {
+      "src": "/Users/leonardovalderas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime-js/0.5.0/979330c1b2d9033e6bdcb1adb4a950a04bed17f5/kotlinx-datetime-js-0.5.0.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime/0.5.0"
+    }
+  }
+}

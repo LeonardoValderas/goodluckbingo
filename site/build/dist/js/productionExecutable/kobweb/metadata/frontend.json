@@ -1,0 +1,1 @@
+{"appEntry":{"fqn":"com.lavsystems.goodluckbingo.AppEntry"},"frontendData":{"pages":[{"fqn":"com.lavsystems.goodluckbingo.pages.HomePage","route":"/"},{"fqn":"com.lavsystems.goodluckbingo.pages.login.LoginScreen","route":"/login/"}],"kobwebInits":[],"silkInits":[],"silkStyles":[],"silkVariants":[],"keyframesList":[]}}

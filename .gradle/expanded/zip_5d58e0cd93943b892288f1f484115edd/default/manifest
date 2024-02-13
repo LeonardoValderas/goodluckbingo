@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.22
+depends=com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobweb\:client-server-models com.varabyte.kobweb\:browser-ext org.jetbrains.kotlinx\:kotlinx-serialization-json org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_signature_versions=1,2
+jsOutputName=kobweb-frontend-kobweb-core
+metadata_version=1.4.1
+serializedIrFileFingerprints=2m08dbwtgw55m.1obys8v3tx3pc 2e5feoovizk21.1e2mi2elrw46r 1lietg2gfwl4x.20kfqndiylkw2 1j9mnlgovhpwv.kgbiowjky4m9 2xia51lknjxl5.fcsmjy1rsttv xp8ewm15rsa7.3dxkumpyxjtl7 gk1bblk3nbhu.2ho937roz7wfe 2mctf66g16pzf.1ybxxempt6okd 2vvo3rquydpfp.365hozultr8p3 pyy8yfbrolxm.3nub2vz3rfbbg 37otnc583fky9.sqwzn7cmbr0z 2gs1u93in5kxl.2yrct7zmcr9p7 2m42rlwhunr0q.1lxdj8y0it4h8 2l9g0oj4osdef.81m59d8p86fa 1xpxpilt86shw.1k9b4b5svh32h 3gjkk2xvl917s.wqzgz3u43dop 2s7dnfd023166.e5go10xl0m7u
+serializedKlibFingerprint=rgt2kvtp5wk4.23jwjchs5sc94
+unique_name=com.varabyte.kobweb\:kobweb-core

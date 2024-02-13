@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.22
+depends=com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa org.jetbrains.kotlinx\:kotlinx-serialization-json org.jetbrains.kotlinx\:kotlinx-datetime com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobweb\:browser-ext org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_signature_versions=1,2
+jsOutputName=goodluckbingo
+metadata_version=1.4.1
+serializedIrFileFingerprints=3ioq9l1mpa9hl.3d277tddz3mmw 394r9s3mdqlsk.1tpwruls7ek2y 301t7jk5h1stn.1ts5llukki2af 3jsy8caju34kx.2ir2pqw7kh2sd 25qvovj2xq1s9.364d00dspyqgr 3q8nwc1ad2do5.3649q9inmarvr 11jru42x1y5lc.1jtg5vmxkc4lv 3iueskhrkna7s.vv0hle05565g 30p4hzypc75wi.36iau8tzrw4v1 dbvhegvsduf5.1f6yu6gtaqwau hoopyrkbar7s.2ktkuysrzhh6t zbck6xzpcr6g.3gtrwt4ys2hwv 3claeqe0d7pd2.2oavxo3wtjzf1 1btshsrzy69lk.2aq6nx402qh2b 22ybkf19edch8.5plidgkq3koy 2avbmd7trwq66.1gzcy3ce59uth avl5op9jhor9.1mzs82h927yks 2nru5jh85wkmo.1cp1ucl561yt ag06ejh2elr9.3mdl9ejk2d9ie 1xcohsjtzpxpi.rd7gfa8txx03 1bsd66wqm43rh.2wf049qbg5r0t u3gepbcqbjok.2q8x2likxpz4v voi3qlfcci0o.3du1t9skg0q2u sjhhwwtd0r25.2s57539wg669r 2rf7usk2ysuhm.2jx7n5wpgaksn 2mlvhnotyz5pl.38qnos4claygk 2n35bz3xf6bt3.wsjz1i4dmju3 a80kfmo69a9t.6roiswo7610v 3jficosku67n3.351cqn9hn827p 3aihviwd4rj22.2zgf6fjizu61h 19g0ahn1fjqrl.2shmxs9ez45gg 1rx2mtnp413oy.1ihgju4xjdyvb 17yamutu49zy6.jjc6ef9gxef6
+serializedKlibFingerprint=3sjqhe7f6jg4n.2k8sv3m06xft1
+unique_name=com.lavsystems.goodluckbingo\:site
